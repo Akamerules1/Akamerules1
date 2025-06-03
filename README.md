@@ -1,6 +1,6 @@
 - 👋 What's Up, I’m Michael Azar Black Jr.
 
-⚪️🔴⚫️ I'm a Young and Passionate Programmer from Atlanta, Georgia ⚪️🔴⚫️
+🔴⚫️⚪️ I'm a Young and Passionate Programmer from Atlanta, Georgia ⚪️⚫️🔴
 
 - I'm A Current:
     - 💻 Computer Science Major with skills including: Data Analysis, Computer Programming, C++, Java, Hardware and Software installment, and Web Development
